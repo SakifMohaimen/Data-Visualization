@@ -9,5 +9,5 @@ Then I have shown the main causes, models and manufactures that are responsible 
 
 Finally a geopandas plot have been made to the damages that the accident have brought with them to the provinces in Canada for the past 25 years.
 
-For the project, I have used Pandas, Matplotlib, Seaborn, Geopandas as well as interactibe flicker and button.
+For the project, I have used Pandas, Matplotlib, Seaborn, Geopandas as well as interactive flicker and button.
 
