@@ -1,6 +1,8 @@
 # Data-Visualization
 Suggesting the Transportation Safety Board of Canada for where should efforts be focused to improve the safety of Canadian air space based on the data of last 25 years.
 
+The visualizations can be seen in the 4 visualizations.pdf file.
+
 At first I have shown wrhich type of aircraft is causing the most number of accidents in Canada.
 
 Then I have displayed through a heat map that in which areas that aircraft is causing most accidents.
